@@ -1,0 +1,14 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  background: #000;
+}
+
+a {
+  color: #00B7FF;
+}
+
+canvas#theCanvas, canvas#canvasCorrected, canvas#textCanvas{
+  height: 140px;
+  width: 140px;
+}
